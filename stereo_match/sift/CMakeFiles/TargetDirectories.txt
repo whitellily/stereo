@@ -1,0 +1,1 @@
+/home/libing/Source/opencv/stereo/stereo_match/sift/CMakeFiles/sift.dir

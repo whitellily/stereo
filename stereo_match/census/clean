@@ -1,0 +1,7 @@
+#!/bin/sh
+#find -name CMakeCache.txt -delete
+rm ./CMakeCache.txt
+rm -r ./CMakeFiles 
+rm ./Makefile
+rm ./cmake*
+exit 0
