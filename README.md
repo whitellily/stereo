@@ -9,3 +9,4 @@ stereo match algorithm
 - NCC
 - SGBM
 - GC
+- DP 
